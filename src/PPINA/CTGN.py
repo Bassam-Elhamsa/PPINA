@@ -6,3 +6,5 @@ def convert_uniprot_to_gene_name(uniprot_ids):
   'ID': 'Gene Name 2'
  }
  return {uniprot_id: uniprot_to_gene.get(uniprot_id) for uniprot_id in uniprot_ids}
+
+def convert_to_unweighted_graph(G):
