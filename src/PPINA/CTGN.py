@@ -11,4 +11,5 @@ def convert_to_unweighted_graph(G):
  unweighted_G = nx.Graph()
  for edge in G.edges():
   unweighted_G.add_edge(edge[0], edge[1])
+  return unweighted_G
 
