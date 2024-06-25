@@ -19,6 +19,8 @@ def convert_to_adjacency_matrix(G):
 
 
 def save_adjacency_matrix(adj_matrix, filename):
+ np.savetxt(filename, adj_matrix, delimiter=',', fmt='%d')
+
 
 
 
