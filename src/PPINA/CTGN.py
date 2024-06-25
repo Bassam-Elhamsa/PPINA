@@ -9,3 +9,4 @@ def convert_uniprot_to_gene_name(uniprot_ids):
 
 def convert_to_unweighted_graph(G):
  unweighted_G = nx.Graph()
+ for edge in G.edges():
