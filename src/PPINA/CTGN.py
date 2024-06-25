@@ -13,3 +13,6 @@ def convert_to_unweighted_graph(G):
   unweighted_G.add_edge(edge[0], edge[1])
   return unweighted_G
 
+def convert_to_adjacency_matrix(G):
+
+
