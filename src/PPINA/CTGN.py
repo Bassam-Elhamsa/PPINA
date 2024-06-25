@@ -14,5 +14,7 @@ def convert_to_unweighted_graph(G):
   return unweighted_G
 
 def convert_to_adjacency_matrix(G):
+ adj_matrix = nx.to_numpy_array(G)
+
 
 
