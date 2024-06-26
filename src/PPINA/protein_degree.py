@@ -2,6 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from colorama import Fore
 
+
 def proteins_degrees_hist(DiGraph, proteins, bin_width=500, log=False, show=True,
                           save_file=[False, "Histogram of proteins degree"]):
     """
@@ -71,10 +72,6 @@ def proteins_degrees_hist(DiGraph, proteins, bin_width=500, log=False, show=True
     else:
         plt.ylabel("Frequency", size=12)
 
-    # test if the show parameter is True or False to show the histogram
-    if show:
-        plt.show()
-
     # test if the save_file parameter is True or False to save the histogram with the user defined name
     if save_file[0]:
         # test if the user mis-define saved file name and to save the histogram with default name and printing warning massage of doing so
@@ -84,6 +81,11 @@ def proteins_degrees_hist(DiGraph, proteins, bin_width=500, log=False, show=True
                 Fore.RED + "Warning:File name not specified\nDefault name will be used:'Histogram of proteins degree'")
         else:
             plt.savefig(save_file[1], dpi=300)
+
+    # test if the show parameter is True or False to show the histogram
+    if show:
+        plt.show()
+
 
 def sort_proteins_degrees(DiGraph, proteins, order="descending",
                           save_file=[False, str], in_out_degrees=False):
