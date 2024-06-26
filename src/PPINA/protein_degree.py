@@ -4,23 +4,18 @@ from colorama import Fore
 
 def proteins_degrees_hist(DiGraph, proteins, bin_width=500, log=False, show=True,
                           save_file=[False, "Histogram of proteins degree"]):
-    """
+     """
     proteins_degrees_hist is a function that draw a histogram for a set of proteins connection degree
-    that is extracted from PPI network graph
-
-    Required parameters:\n
-    1- DiGraph : non-empty networkx.DiGraph class of PPI network
-    2- proteins : non-empty list of non-empty string elements of proteins names
-
-    optional parameters:\n
-    1- bin_width : default 500 : integer that decide width of bins of the histogram\n
-    2- log : default False : bool that decide whether to use log transformation to better visualize condensed data\n
-    3- save_file : default [False, "Histogram of proteins degree.png"] : non-empty list of 2 elements first of which is
+    that is extracted from PPI network graph\n\n
+    :param DiGraph : non-empty networkx.DiGraph class of PPI network
+    :param proteins : non-empty list of non-empty string elements of proteins names
+    :param bin_width : default 500 : integer that decide width of bins of the histogram (optional)
+    :param log : default False : bool that decide whether to use log transformation to better visualize condensed data (optional)
+    :param save_file : default [False, "Histogram of proteins degree.png"] : non-empty list of 2 elements first of which is
     bool and second is non-empty string of the saved file name this parameter decide if the histogram will be saved
-    or not and specify the saved file name (if the file name not specified default name will be given 'Histogram of proteins degree')\n
-    4- show : default True : bool that decide whether histogram will be shown or not
-
-    proteins_degrees_hist return figure of histogram for set of proteins connection degrees
+    or not and specify the saved file name (if the file name not specified default name will be given 'Histogram of proteins degree') (optional)
+    :param show : default True : bool that decide whether histogram will be shown or not (optional)
+    :return: proteins_degrees_hist returns figure of histogram for set of proteins connection degrees
     """
 
     # Testing the parameters that user define
