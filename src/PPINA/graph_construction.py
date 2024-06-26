@@ -1,9 +1,12 @@
 import csv
+import os
 
 # reading the file and make a list of tuples
 file_path = "/home/work/PathLinker_2018_human-ppi-weighted-cap0_75.txt"
 output_file_path = "/home/work/output.txt"
 
+if not os.path.isfile(file_path):
+    raise FileNotFoundError("Please provide a valid input file path, or make sure the file exists.")
 
 def read_file(file_path, delimiter="\t"):
     try:
@@ -18,7 +21,7 @@ def read_file(file_path, delimiter="\t"):
                 list_of_tuples.append(filtered_row)
         return list_of_tuples
     except FileNotFoundError:
-        print("Data file is missing!")
+        print("Input file is missing.")
 
 # save the output
 def save_list(data, output_file_path, delimiter="\t"):
@@ -32,6 +35,6 @@ try:
     output = read_file(file_path)
     save_list(output, output_file_path)
 except FileNotFoundError:
-    print("Please provide a valid file path!")
+    print("Output file is missing.")
 except Exception as e:
     print(f"An error occurred: {e}")
