@@ -6,6 +6,9 @@ try:
  SWP = SwissProt.UniProtKB_SWISSPROT()
  res = SWP[Uniprot_ID]
  return res.get('gene')
+except KeyError:
+     print(f"Error: Invalid UniProt ID: {Uniprot_ID}")
+     return None
 def convert_to_unweighted_graph(G):
  unweighted_G = nx.DiGraph()
  for edge in G.edges():
