@@ -4,6 +4,7 @@ from Bio import Swissprot
 def getting_gene_name(Uniprot_ID):
 try:
  SWP = SwissProt.UniProtKB_SWISSPROT()
+ res = SWP[Uniprot_ID]
 def convert_to_unweighted_graph(G):
  unweighted_G = nx.DiGraph()
  for edge in G.edges():
