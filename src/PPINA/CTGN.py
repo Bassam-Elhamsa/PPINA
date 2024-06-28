@@ -9,7 +9,7 @@ def getting_gene_name(Uniprot_ID):
     Prot = Entrez.efetch(db="protein", id=Uniprot_ID, rettype="gb", retmode="text")
     result = SeqIO.read(Prot, "gb")
     return result.description.split()[1]
-
+#
 # testing function 1
 Uniprot_IDs=['Q8TBF4','Q15717','Q5MIZ7','Q8N490']
 for Uniprot_ID in Uniprot_IDs:
