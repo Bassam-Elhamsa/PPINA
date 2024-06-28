@@ -5,6 +5,7 @@ from Bio import Entrez, SeqIO
 Entrez.email = "maiteleb830@gmail.com"
 
 def getting_gene_name(Uniprot_ID):
+
     Prot = Entrez.efetch(db="protein", id=Uniprot_ID, rettype="gb", retmode="text")
     result = SeqIO.read(Prot, "gb")
     return result.description.split()[1]
