@@ -1,4 +1,3 @@
-import csv
 import os
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -9,17 +8,16 @@ file_path = "/home/work/PathLinker_2018_human-ppi-weighted-cap0_75.txt"
 if not os.path.isfile(file_path):
     raise FileNotFoundError("Please provide a valid input file path, or make sure the file exists.")
 
-def read_file(file_path, delimiter="\t"):
+def read_file(file_path):
     try:
         list_of_tuples = []
         with open(file_path, "r") as file:
-            data = csv.reader(file, delimiter = delimiter)
-            headers = next(data)
-            column_index = headers.index("edge_type")
-
-            for row in data:
-                filtered_row = tuple(value for index, value in enumerate(row) if index != column_index)
-                list_of_tuples.append(filtered_row)
+            data = file.readlines()
+            for line in data:
+                if line[0] == '#':                    
+                    continue
+                line = line.split("\t")
+                list_of_tuples.append((line[0], line[1], float(line[2])))
         return list_of_tuples
     except FileNotFoundError:
         print("Input file is missing.")
