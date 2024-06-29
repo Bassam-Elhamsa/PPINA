@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 file_path = "/home/work/PathLinker_2018_human-ppi-weighted-cap0_75.txt"
 
 if not os.path.isfile(file_path):
-    raise FileNotFoundError("Please provide a valid input file path, or make sure the file exists.")
+    raise FileNotFoundError("Please provide a valid input file path, or make sure the input file exists.")
 
 def read_file(file_path):
     try:
@@ -22,22 +22,58 @@ def read_file(file_path):
     except FileNotFoundError:
         print("Input file is missing.")
     return read_file
-print(read_file(file_path)[0:20])      
+print(read_file(file_path)[0:10])      
         
-#Draw a constructed graph
-def draw_graph(file_path, delimiter="\t"):
-    G = nx.DiGraph()
-    G.add_weighted_edges_from(read_file(file_path)[0:20], delimiter = delimiter)
-    positions = nx.spring_layout(G)
-    nx.draw_networkx_nodes(G, positions, node_size=1500)
-    nx.draw_networkx_edges(G, positions, edgelist=G.edges, edge_color='k', width=1)
-    nx.draw_networkx_labels(G, positions, font_size=10, font_family='sans-serif')
-    plt.show()
-    return draw_graph
+#Making a directed graph
+graph = nx.DiGraph()
+graph.add_weighted_edges_from(read_file(file_path)[1000:1002], delimiter = "\t")
+positions = nx.spring_layout(graph)
+nx.draw_networkx_nodes(graph, positions, node_size=1500)
+nx.draw_networkx_edges(graph, positions, edgelist=graph.edges, edge_color='k', width=1)
+nx.draw_networkx_labels(graph, positions, font_size=10, font_family='sans-serif')
+  
+    #find the shortest path between two proteins
+def shortest_path(file_path, source = "P29218", target = "Q13315"):
+    graph = nx.DiGraph()
+    graph.add_weighted_edges_from(read_file(file_path))
+    try:
+        path = nx.shortest_path(graph, source, target)
+        return path
+    except nx.NetworkXNoPath:
+        return "No path found between the two proteins."
+    except nx.NodeNotFound:
+        return "One or both of the proteins are not in the graph."
+    except Exception as e:
+        return f"An error occurred: {e}"
+print(f"The shortest path is: {shortest_path(file_path)}")
 
+#find the total path score between the two proteins
+def total_path_score(file_path, source = "P29218", target = "Q13315"):
+    graph = nx.DiGraph()
+    graph.add_weighted_edges_from(read_file(file_path))
+    try:
+        score = nx.shortest_path_length(graph, source, target)
+        return score
+    except nx.NetworkXNoPath:
+        return "No path found between the two proteins."
+    except nx.NodeNotFound:
+        return "One or both of the proteins are not in the graph."
+    except Exception as e:
+        return f"An error occurred: {e}"
+print(f"The total path score is: {total_path_score(file_path)}")
 
-try:
-    draw_graph(file_path)
-except Exception as e:
-    print(f"An error occurred: {e}")
-    
+#find the weight of each interaction in the paths
+def weight_of_each_interaction(file_path, source = "P29218", target = "Q13315"):
+    graph = nx.DiGraph()
+    graph.add_weighted_edges_from(read_file(file_path))
+    try:
+        path_weight = nx.path_weight(graph, path = nx.shortest_path(graph, source, target), weight = "weight" )
+        return path_weight
+    except nx.NetworkXNoPath:
+        return "No path found between the two proteins."
+    except nx.NodeNotFound:
+        return "One or both of the proteins are not in the graph."
+    except Exception as e:
+        return f"An error occurred: {e}"
+print(f"The weight is: {weight_of_each_interaction(file_path)}")
+plt.show()
