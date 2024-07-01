@@ -135,7 +135,7 @@ def sort_proteins_degrees(DiGraph, proteins, order="descending",
     ## in which each dict is keyed by protein name and the value is list of protein degrees
     proteins_degrees = []
     for protein in proteins:
-        proteins_degrees.append({protein: [G.degree[protein]]})
+        proteins_degrees.append({protein: [DiGraph.degree[protein]]})
 
     ## test if in_out_degrees is True or False
     if in_out_degrees:
@@ -143,8 +143,8 @@ def sort_proteins_degrees(DiGraph, proteins, order="descending",
         # for loop to go through all dicts of our list of dicts
         for i in range(len(proteins_degrees)):
             protein_dict_value = proteins_degrees[i][proteins[i]]  # each dict value
-            protein_in_degree = G.in_degree[proteins[i]]  # number of proteins pointing to our protein
-            protein_out_degree = G.out_degree[proteins[i]]  # number of proteins pointing out of our protein
+            protein_in_degree = DiGraph.in_degree[proteins[i]]  # number of proteins pointing to our protein
+            protein_out_degree = DiGraph.out_degree[proteins[i]]  # number of proteins pointing out of our protein
 
             protein_dict_value.append(protein_in_degree)  # appending protein_in_degree to the value of the dicts
             protein_dict_value.append(protein_out_degree)  # appending protein_out_degree to the value of the dicts
