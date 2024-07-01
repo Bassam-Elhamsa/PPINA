@@ -1,18 +1,33 @@
 import networkx as nx
 import numpy as np
 from Bio import Entrez, SeqIO
+import requests
 
 
 
-def getting_gene_name(Uniprot_IDs,Entrez_email):
-    Entrez.email = Entrez_email
-    Gene_names = []
-    for ID in Uniprot_IDs:
-        Prot = Entrez.efetch(db="protein", id=ID, rettype="gb", retmode="text")
-        result = SeqIO.read(Prot, "gb")
-        Gene_names.append(result.name.removesuffix("_HUMAN"))
-    return Gene_names
+def convert_uniprotID_geneName(uniprot_ids=list):
+    """
+    Fetches Gene name for a given UniProt ID.
 
+    :param uniprot_ids: The UniProt IDs to fetch gene name for.
+    :return: list containing the converted gene names.
+    """
+    try:
+        gene_names=[]
+        for uniprot_id in uniprot_ids:
+            url = f"https://rest.uniprot.org/uniprotkb/{uniprot_id}"
+            params = {
+                'format': 'json'
+            }
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+            protein_info = response.json()
+            gene_name = protein_info["genes"][0]["geneName"]["value"]
+            gene_names.append(gene_name)
+        return gene_names
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
 
 
 def convert_to_unweighted_graph(G):
