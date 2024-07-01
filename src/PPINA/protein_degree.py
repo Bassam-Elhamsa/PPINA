@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from colorama import Fore
 
 
-def proteins_degrees_hist(DiGraph, proteins, bin_width=500, log=False, show=True,
+def proteins_degrees_hist(DiGraph, proteins, bin_width=10, log=False, show=True,
                           save_file=[False, "Histogram of proteins degree"]):
     """
        proteins_degrees_hist is a function that draw a histogram for a set of proteins connection degree
