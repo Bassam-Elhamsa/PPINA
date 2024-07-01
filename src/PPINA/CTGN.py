@@ -11,7 +11,7 @@ def getting_gene_name(Uniprot_IDs,Entrez_email):
         Prot = Entrez.efetch(db="protein", id=ID, rettype="gb", retmode="text")
         result = SeqIO.read(Prot, "gb")
         Gene_names.append(result.description.split()[1])
-    return gene_names
+    return Gene_names
 
 
 
