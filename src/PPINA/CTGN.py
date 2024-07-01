@@ -1,6 +1,5 @@
 import networkx as nx
 import numpy as np
-from Bio import Entrez, SeqIO
 import requests
 
 
