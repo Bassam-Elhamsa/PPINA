@@ -193,3 +193,17 @@ def sort_proteins_degrees(DiGraph, proteins, order="descending",
                     sort_w.write(line)  # Writing line to the tsv file
 
     return proteins_degrees
+                            
+def list_direct_connections(G, protein,saved_file_name="direct_connections.txt"):
+    neighbors = list(G.neighbors(protein))
+    degree = len(neighbors)  # calculating the degree of proteins
+    connections = []  # list of proteins (neighbours) and weights
+    for neighbor in neighbors:
+        weight = G[protein][neighbor]['weight'] 
+        connections.append((neighbor, weight))
+    with open(saved_file_name, 'w') as f:  
+        f.write(f"Degree: {degree}\n")
+        for neighbor, weight in connections:
+            f.write(f"{neighbor}: {weight}\n")
+    return degree, connections
+ 
