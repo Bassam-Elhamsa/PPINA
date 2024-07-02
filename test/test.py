@@ -28,7 +28,9 @@ for d in max_5:
     degree = list(d.values())[0][0]  #Getting protein degree value
     max_5_id.append(Id)
     max_5_degrees.append(degree)
-    
+    
+
+
 
 # Getting gene name of the protein
 max_5_name = CTGN.convert_uniprotID_geneName(max_5_id)
@@ -44,3 +46,24 @@ plt.show()
 # proteins connected (neigbors) to specific protein
 protein_id = 'P35250'  # Replace with actual UniProt ID
 degree, connections = list_direct_connections(G, protein_id)
+from PPINA import CTGN as ct
+
+import requests
+uniprot_ids =['P62807', 'P31946', 'Q96RL1', 'Q9NXR7', 'P62807', 'P16104']
+
+gene_names=ct.convert_uniprotID_geneName(uniprot_ids)
+
+print(gene_names)
+
+G= nx.DiGraph()
+G.add_edge('A','B',weight=0.058035)
+G.add_edge('B','C',weight=0.750000)
+G.add_edge('C','A',weight=0.710749)
+G.add_edge('D','F',weight=0.536469)
+unweighted_G=ct.convert_to_unweighted_graph(G)
+print(unweighted_G)
+
+ad_matrix=ct.convert_to_adjacency_matrix(G)
+ct.save_adjacency_matrix(ad_matrix,'ad9_matrix.csv')
+print(ad_matrix)
+
