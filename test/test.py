@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Building graph
 G = graph_construction.G_build("G2-M_DNA_damage_checkpoint_ppi.txt")
-#Find the shortest path between two peoteins
+#Find the shortest path between two proteins
 paths = gc.all_shortest_paths(draw_graph,"P62807" ,"Q12888")
 
 #Caclculate the weight and the total path score for the shortest paths
