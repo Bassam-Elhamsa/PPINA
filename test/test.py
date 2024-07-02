@@ -1,16 +1,17 @@
 from PPINA import graph_construction,protein_degree,CTGN
 import matplotlib.pyplot as plt
+import requests
 
 # Building graph
 G = graph_construction.G_build("G2-M_DNA_damage_checkpoint_ppi.txt")
 #Find the shortest path between two proteins
-paths = gc.all_shortest_paths(draw_graph,"P62807" ,"Q12888")
+paths = graph_construction.all_shortest_paths(draw_graph,"P62807" ,"Q12888")
 
 #Caclculate the weight and the total path score for the shortest paths
-weight = gc.weight_of_each_path(draw_graph,"P62807" ,"Q12888")
+weight = graph_construction.weight_of_each_path(draw_graph,"P62807" ,"Q12888")
 
 #Draw the subgraph
-sub_graph = gc.subgraph_plot(draw_graph, path = paths[0]0
+sub_graph = graph_construction.subgraph_plot(draw_graph, path = paths[0]0
 # Extract all proteins in the graph
 all_proteins = list(G.nodes())
 # plot histogram pathway's protein degrees and save it as png
@@ -45,25 +46,17 @@ plt.show()
 
 # proteins connected (neigbors) to specific protein
 protein_id = 'P35250'  # Replace with actual UniProt ID
-degree, connections = list_direct_connections(G, protein_id)
-from PPINA import CTGN as ct
+degree, connections = protein_degree.list_direct_connections(G, protein_id)
 
-import requests
+
 uniprot_ids =['P62807', 'P31946', 'Q96RL1', 'Q9NXR7', 'P62807', 'P16104']
 
-gene_names=ct.convert_uniprotID_geneName(uniprot_ids)
+gene_names=CTGN.convert_uniprotID_geneName(uniprot_ids)
 
 print(gene_names)
+
 
-G= nx.DiGraph()
-G.add_edge('A','B',weight=0.058035)
-G.add_edge('B','C',weight=0.750000)
-G.add_edge('C','A',weight=0.710749)
-G.add_edge('D','F',weight=0.536469)
-unweighted_G=ct.convert_to_unweighted_graph(G)
-print(unweighted_G)
-
-ad_matrix=ct.convert_to_adjacency_matrix(G)
-ct.save_adjacency_matrix(ad_matrix,'ad9_matrix.csv')
+ad_matrix=CTGN.convert_to_adjacency_matrix(G)
+CTGN.save_adjacency_matrix(ad_matrix,'ad9_matrix.csv')
 print(ad_matrix)
 
