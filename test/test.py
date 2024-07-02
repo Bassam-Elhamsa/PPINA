@@ -20,6 +20,10 @@ for d in max_5:
     degree = list(d.values())[0][0]  #Getting protein degree value
     max_5_id.append(Id)
     max_5_degrees.append(degree)
+    
+# proteins connected (neigbors) to specific protein
+protein_id = 'P35250'  # Replace with actual UniProt ID
+degree, connections = list_direct_connections(G, protein_id)
 
 
 # Getting gene name of the protein
