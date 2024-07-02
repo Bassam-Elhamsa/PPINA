@@ -1,0 +1,877 @@
+#tail	head	edge_weight	edge_type
+P62807	P31946	0.058035	MI:1313 (bioid)
+P62807	Q9NXR7	0.058035	MI:1313 (bioid)
+P62807	P16104	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+P62807	P27348	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P62807	P38398	0.058035	MI:1313 (bioid)
+P62807	Q92547	0.058035	MI:1313 (bioid)
+P62807	Q99728	0.058035	MI:1313 (bioid)
+P62807	Q96RL1	0.360507	MI:1313 (bioid)|SPIKE
+P62805	P14635	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P62805	Q16778	0.492293	MI:0096 (pull down)
+P62805	P16104	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P62805	Q92993	0.750000	MI:0889 (acetylation assay)|MI:0415 (enzymatic study)
+P62805	O96028	0.568782	MI:0415 (enzymatic study)
+P62805	P27348	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P62805	Q92547	0.311133	MI:0004 (affinity chromatography technology)
+P62805	P63104	0.750000	SPIKE|MI:0676 (tandem affinity purification)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P62805	Q12888	0.750000	MI:0114 (x-ray crystallography)|MI:0077 (nuclear magnetic resonance)|MI:0065 (isothermal titration calorimetry)|MI:0107 (surface plasmon resonance)|MI:0047 (far western blotting)|SPIKE|MI:0081 (peptide array)|MI:0096 (pull down)
+P62805	P33778	0.311133	MI:0004 (affinity chromatography technology)
+P62805	P38398	0.750000	MI:0006 (anti bait coimmunoprecipitation)|SPIKE
+P62805	P06493	0.568782	MI:0415 (enzymatic study)
+P62805	Q16695	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0038 (dynamic light scattering)|MI:0071 (molecular sieving)|MI:0401 (biochemical)
+P62805	P62258	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q9NXR7	Q6UWZ7	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q9NXR7	Q99728	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q9NXR7	P38398	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+Q9NXR7	Q96RL1	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q9NXR7	P04637	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q9NXR7	Q9NWV8	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q9NXR7	P46736	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q9NXR7	P62807	0.058035	MI:1313 (bioid)
+Q9NXR7	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P35250	P40937	0.750000	MI:0028 (cosedimentation in solution)|SPIKE|MI:0401 (biochemical)
+P35250	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P35250	Q99728	0.311133	MI:0004 (affinity chromatography technology)
+P35250	O75943	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P35250	P38398	0.311133	MI:0004 (affinity chromatography technology)
+P35250	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P35250	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P35250	Q12888	0.311133	MI:0004 (affinity chromatography technology)
+P35250	P35249	0.750000	MI:0028 (cosedimentation in solution)|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)|MI:0096 (pull down)|SPIKE
+P35250	P40938	0.750000	MI:0028 (cosedimentation in solution)|SPIKE|MI:0401 (biochemical)
+P35250	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q9BSD3	P61088	0.311133	MI:0004 (affinity chromatography technology)
+Q9BSD3	O60671	0.311133	MI:0004 (affinity chromatography technology)
+Q9BSD3	Q99638	0.311133	MI:0004 (affinity chromatography technology)
+Q9BSD3	O60921	0.311133	MI:0004 (affinity chromatography technology)
+Q9BSD3	Q92547	0.311133	MI:0004 (affinity chromatography technology)
+P38398	Q9NXR7	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P38398	P35249	0.311133	MI:0004 (affinity chromatography technology)
+P38398	P62807	0.058035	MI:1313 (bioid)
+P38398	P62805	0.750000	MI:0006 (anti bait coimmunoprecipitation)|SPIKE
+P38398	O60934	0.750000	MI:0428 (imaging technique)|MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+P38398	O76064	0.750000	MI:0416 (fluorescence microscopy)|SPIKE
+P38398	Q96RL1	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P38398	O95714	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)
+P38398	P49959	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+P38398	P14635	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P38398	P63104	0.311133	MI:0004 (affinity chromatography technology)
+P38398	Q14676	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|SPIKE
+P38398	P35250	0.311133	MI:0004 (affinity chromatography technology)
+P38398	P54132	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P38398	Q9NWV8	0.750000	MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P38398	P27694	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P38398	Q6UWZ7	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P38398	P04637	0.750000	MI:0019 (coimmunoprecipitation)|SPIKE|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+P38398	O14757	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|SPIKE
+P38398	Q13315	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|SPIKE|MI:0423 (in-gel kinase assay)|MI:0096 (pull down)|MI:0401 (biochemical)
+P38398	Q99728	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|MI:0090 (protein complementation assay)|MI:0004 (affinity chromatography technology)|MI:0077 (nuclear magnetic resonance)|MI:0007 (anti tag coimmunoprecipitation)|MI:0055 (fluorescent resonance energy transfer)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+P38398	P16104	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0029 (cosedimentation through density gradient)
+P38398	Q9BX63	0.750000	MI:0019 (coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0114 (x-ray crystallography)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P38398	P46736	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0401 (biochemical)
+P38398	P61088	0.750000	MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0096 (pull down)
+P38398	Q8WXE1	0.750000	MI:0114 (x-ray crystallography)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P38398	P30307	0.568782	MI:0415 (enzymatic study)
+P38398	Q12888	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)
+P38398	Q92993	0.280419	MI:0018 (two hybrid)
+P38398	Q92547	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+P38398	Q99708	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P38398	Q92878	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+Q99877	P16104	0.452539	KEGG group-entry
+Q99877	Q96RL1	0.473922	SPIKE
+P14635	P62805	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P14635	Q12888	0.568782	MI:0415 (enzymatic study)
+P14635	P38398	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P14635	P06493	0.750000	MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association|MI:0096 (pull down)|MI:0401 (biochemical)
+P14635	P27694	0.568782	MI:0415 (enzymatic study)
+P14635	P04637	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P33778	P62805	0.311133	MI:0004 (affinity chromatography technology)
+P33778	P31947	0.311133	MI:0004 (affinity chromatography technology)
+P33778	P16104	0.452539	KEGG group-entry
+P33778	P06493	0.568782	MI:0415 (enzymatic study)
+P33778	Q92993	0.311133	MI:0004 (affinity chromatography technology)
+P27348	P30291	0.750000	MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P27348	P62805	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P27348	P61981	0.750000	MI:0401 (biochemical)|MI:0069 (mass spectrometry studies of complexes)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P27348	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+P27348	P63104	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0676 (tandem affinity purification)|MI:0401 (biochemical)
+P27348	P58876	0.311133	MI:0004 (affinity chromatography technology)
+P27348	O60921	0.492293	MI:0096 (pull down)
+P27348	P04637	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P27348	P31947	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P27348	P31946	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0401 (biochemical)
+P27348	P62807	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P27348	Q04917	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P27348	P16104	0.311133	MI:0004 (affinity chromatography technology)
+P27348	P30307	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|SPIKE
+P27348	P62258	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0663 (confocal microscopy)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)
+Q9H9A7	Q13472	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|MI:0114 (x-ray crystallography)|MI:0047 (far western blotting)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0020 (transmission electron microscopy)|MI:0096 (pull down)
+Q9H9A7	P15927	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+Q9H9A7	P27694	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+Q9H9A7	P54132	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)
+Q9H9A7	P35244	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+Q9H9A7	Q92547	0.311133	MI:0004 (affinity chromatography technology)
+Q9H9A7	Q96E14	0.750000	KEGG group-entry|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+O95714	P35244	0.311133	MI:0004 (affinity chromatography technology)
+O95714	Q8IYW5	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+O95714	Q8N2W9	0.311133	MI:0004 (affinity chromatography technology)
+O95714	P30307	0.311133	MI:0004 (affinity chromatography technology)
+O95714	P61088	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O95714	P38398	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)
+O95714	P27694	0.311133	MI:0004 (affinity chromatography technology)
+O95714	O76064	0.750000	MI:0018 (two hybrid)|MI:0006 (anti bait coimmunoprecipitation)|SPIKE|MI:0004 (affinity chromatography technology)
+O95714	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+O95714	Q8WXE1	0.311133	MI:0004 (affinity chromatography technology)
+O95714	P04637	0.750000	MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q92547	O60934	0.311133	MI:0004 (affinity chromatography technology)
+Q92547	Q9BSD3	0.311133	MI:0004 (affinity chromatography technology)
+Q92547	P54132	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q92547	Q9BX63	0.750000	KEGG binding/association|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q92547	O14757	0.568782	MI:0415 (enzymatic study)
+Q92547	P38398	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+Q92547	Q12888	0.750000	MI:0416 (fluorescence microscopy)|SPIKE
+Q92547	Q9H9A7	0.311133	MI:0004 (affinity chromatography technology)
+Q92547	Q99728	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q92547	Q99638	0.750000	MI:0018 (two hybrid)|MI:0019 (coimmunoprecipitation)|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q92547	Q13535	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q92547	P62807	0.058035	MI:1313 (bioid)
+Q92547	P62805	0.311133	MI:0004 (affinity chromatography technology)
+Q92547	P27694	0.666441	MI:0428 (imaging technique)
+Q92547	Q14676	0.750000	MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q92547	Q8WXE1	0.750000	SPIKE|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+O60814	Q96RL1	0.473922	SPIKE
+O60814	P16104	0.452539	KEGG group-entry
+Q9UQ84	P15927	0.437443	MI:0416 (fluorescence microscopy)
+Q9UQ84	Q99708	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q9UQ84	Q04917	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+Q9UQ84	P31947	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+Q9UQ84	P31946	0.750000	MI:0018 (two hybrid)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q9UQ84	P16104	0.437443	MI:0416 (fluorescence microscopy)
+Q9UQ84	P54132	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q9UQ84	P27348	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+Q9UQ84	P63104	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q9UQ84	P61981	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+Q9UQ84	P62258	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q96A08	P16104	0.452539	KEGG group-entry
+Q96A08	Q99880	0.311133	MI:0004 (affinity chromatography technology)
+Q96A08	P06899	0.311133	MI:0004 (affinity chromatography technology)
+Q96A08	Q92993	0.311133	MI:0004 (affinity chromatography technology)
+Q96A08	Q96RL1	0.473922	SPIKE
+P15927	Q13472	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P15927	P35244	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|SPIKE|MI:0401 (biochemical)
+P15927	P35249	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q14191	0.750000	MI:0416 (fluorescence microscopy)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P15927	Q99638	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q9UQ84	0.437443	MI:0416 (fluorescence microscopy)
+P15927	P49959	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P15927	P35250	0.311133	MI:0004 (affinity chromatography technology)
+P15927	P54132	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P15927	O60921	0.311133	MI:0004 (affinity chromatography technology)
+P15927	O60671	0.311133	MI:0004 (affinity chromatography technology)
+P15927	P27694	0.750000	MI:0091 (chromatography technology)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0401 (biochemical)
+P15927	P04637	0.745706	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P15927	P40938	0.311133	MI:0004 (affinity chromatography technology)
+P15927	P40937	0.311133	MI:0004 (affinity chromatography technology)
+P15927	O14757	0.437443	MI:0416 (fluorescence microscopy)
+P15927	Q9H9A7	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P15927	O60934	0.311133	MI:0004 (affinity chromatography technology)
+P15927	P51530	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q8WXE1	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q12888	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+P15927	Q96E14	0.430888	KEGG binding/association
+P40938	P35250	0.750000	MI:0028 (cosedimentation in solution)|SPIKE|MI:0401 (biochemical)
+P40938	P40937	0.697741	SPIKE|MI:0401 (biochemical)
+P40938	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P40938	O75943	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P40938	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P40938	P35249	0.750000	MI:0004 (affinity chromatography technology)|MI:1112 (two hybrid prey pooling approach)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0401 (biochemical)
+P40938	P04637	0.311133	MI:0004 (affinity chromatography technology)
+P40938	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P40937	P35250	0.750000	MI:0028 (cosedimentation in solution)|SPIKE|MI:0401 (biochemical)
+P40937	P40938	0.697741	SPIKE|MI:0401 (biochemical)
+P40937	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P40937	O75943	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P40937	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P40937	P35249	0.750000	MI:1356 (validated two hybrid)|MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:1112 (two hybrid prey pooling approach)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0401 (biochemical)
+P40937	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P40937	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P31947	P30291	0.750000	SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P31947	P61981	0.750000	MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P31947	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+P31947	O14757	0.311133	MI:0004 (affinity chromatography technology)
+P31947	P14635	0.650125	KEGG inhibition
+P31947	P27348	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P31947	P63104	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+P31947	P33778	0.311133	MI:0004 (affinity chromatography technology)
+P31947	P30307	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+P31947	P06493	0.750000	MI:0019 (coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|KEGG inhibition|MI:0004 (affinity chromatography technology)|SPIKE
+P31946	P30291	0.750000	MI:0018 (two hybrid)|MI:0019 (coimmunoprecipitation)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|SPIKE
+P31946	P30307	0.750000	KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P31946	P62807	0.058035	MI:1313 (bioid)
+P31946	P61981	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0004 (affinity chromatography technology)
+P31946	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P31946	P63104	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0401 (biochemical)
+P31946	O14757	0.492293	MI:0096 (pull down)
+P31946	P27348	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0401 (biochemical)
+P31946	Q04917	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P31946	P16104	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P31946	P62258	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+Q92993	Q99728	0.750000	MI:0018 (two hybrid)|SPIKE
+Q92993	P16104	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q92993	P61981	0.280419	MI:0018 (two hybrid)
+Q92993	O14757	0.546877	MI:0663 (confocal microscopy)
+Q92993	P49959	0.311133	MI:0004 (affinity chromatography technology)
+Q92993	P33778	0.311133	MI:0004 (affinity chromatography technology)
+Q92993	Q13315	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q92993	P62805	0.750000	MI:0415 (enzymatic study)|SPIKE
+Q92993	P38398	0.280419	MI:0018 (two hybrid)
+Q92993	O60934	0.311133	MI:0004 (affinity chromatography technology)
+Q92993	Q16695	0.492293	MI:0096 (pull down)
+Q92993	Q96A08	0.311133	MI:0004 (affinity chromatography technology)
+Q92993	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+Q92993	P04637	0.750000	MI:0004 (affinity chromatography technology)|MI:0415 (enzymatic study)|MI:0007 (anti tag coimmunoprecipitation)|MI:0402 (chromatin immunoprecipitation assay)|SPIKE
+Q92993	P61088	0.473922	SPIKE
+O76064	Q99728	0.311133	MI:0004 (affinity chromatography technology)
+O76064	Q16778	0.568782	MI:0415 (enzymatic study)
+O76064	Q15819	0.492293	MI:0096 (pull down)
+O76064	P16104	0.750000	MI:0415 (enzymatic study)|MI:0663 (confocal microscopy)|MI:0416 (fluorescence microscopy)|SPIKE
+O76064	P49959	0.311133	MI:0004 (affinity chromatography technology)
+O76064	O96017	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O76064	Q8IYW5	0.473922	SPIKE
+O76064	Q14676	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0065 (isothermal titration calorimetry)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O76064	P61088	0.750000	MI:0018 (two hybrid)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O76064	Q13315	0.437443	MI:0416 (fluorescence microscopy)
+O76064	P54132	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)
+O76064	P38398	0.750000	MI:0416 (fluorescence microscopy)|SPIKE
+O76064	Q12888	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)
+O76064	P06899	0.473922	SPIKE
+O76064	O60934	0.750000	MI:0415 (enzymatic study)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+O76064	O95714	0.750000	MI:0018 (two hybrid)|MI:0006 (anti bait coimmunoprecipitation)|SPIKE|MI:0004 (affinity chromatography technology)
+O76064	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+P63104	P30291	0.750000	MI:0047 (far western blotting)|MI:0096 (pull down)|SPIKE
+P63104	P35249	0.750000	MI:0096 (pull down)|SPIKE
+P63104	P62805	0.750000	SPIKE|MI:0676 (tandem affinity purification)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P63104	P31946	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0401 (biochemical)
+P63104	P61981	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P63104	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P63104	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P63104	O60921	0.750000	MI:0096 (pull down)|SPIKE
+P63104	P58876	0.389958	MI:0676 (tandem affinity purification)
+P63104	P04637	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P63104	P31947	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+P63104	O14757	0.492293	MI:0096 (pull down)
+P63104	P27348	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0676 (tandem affinity purification)|MI:0401 (biochemical)
+P63104	Q04917	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P63104	P38398	0.311133	MI:0004 (affinity chromatography technology)
+P63104	Q99728	0.311133	MI:0004 (affinity chromatography technology)
+P63104	P16104	0.750000	MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|SPIKE
+P63104	P30307	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P63104	Q12888	0.311133	MI:0004 (affinity chromatography technology)
+P63104	P62258	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0663 (confocal microscopy)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+O60934	Q99728	0.536469	MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+O60934	P16104	0.750000	SPIKE|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O60934	O96017	0.750000	MI:0428 (imaging technique)|SPIKE
+O60934	Q13472	0.473922	SPIKE
+O60934	Q99708	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+O60934	P49959	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|KEGG group-entry|MI:0428 (imaging technique)|SPIKE|KEGG binding/association|MI:0096 (pull down)|MI:0401 (biochemical)
+O60934	P35244	0.311133	MI:0004 (affinity chromatography technology)
+O60934	Q92547	0.311133	MI:0004 (affinity chromatography technology)
+O60934	Q14676	0.750000	MI:0676 (tandem affinity purification)|MI:0065 (isothermal titration calorimetry)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O60934	Q8WXE1	0.311133	MI:0004 (affinity chromatography technology)
+O60934	Q14191	0.311133	MI:0004 (affinity chromatography technology)
+O60934	P61088	0.492293	MI:0096 (pull down)
+O60934	Q13315	0.750000	MI:0004 (affinity chromatography technology)|KEGG activation,phosphorylation|MI:0428 (imaging technique)|SPIKE|MI:0423 (in-gel kinase assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+O60934	P54132	0.201461	MI:0401 (biochemical)
+O60934	O75943	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O60934	P38398	0.750000	MI:0428 (imaging technique)|MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+O60934	Q92993	0.311133	MI:0004 (affinity chromatography technology)
+O60934	P27694	0.311133	MI:0004 (affinity chromatography technology)
+O60934	O76064	0.750000	MI:0415 (enzymatic study)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+O60934	Q16695	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O60934	P15927	0.311133	MI:0004 (affinity chromatography technology)
+O60934	P04637	0.473922	SPIKE
+O60934	Q92878	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|KEGG group-entry|SPIKE|KEGG binding/association|MI:0401 (biochemical)
+P46736	Q6UWZ7	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P46736	Q96RL1	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P46736	Q99728	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE
+P46736	P38398	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0401 (biochemical)
+P46736	Q9NXR7	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+P46736	P04637	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+P46736	Q9NWV8	0.750000	KEGG binding/association|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P46736	P06899	0.473922	SPIKE
+P46736	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P23527	P16104	0.452539	KEGG group-entry
+P62258	P30291	0.473922	SPIKE
+P62258	P62805	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P62258	P61981	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0397 (two hybrid array)|MI:0401 (biochemical)
+P62258	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P62258	P63104	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0663 (confocal microscopy)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+P62258	P04637	0.750000	MI:0053 (fluorescence polarization spectroscopy)|MI:0004 (affinity chromatography technology)
+P62258	P31946	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+P62258	P27348	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0663 (confocal microscopy)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)
+P62258	Q04917	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+P62258	P16104	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P62258	P30307	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q6UWZ7	Q99728	0.750000	SPIKE|MI:0004 (affinity chromatography technology)
+Q6UWZ7	Q96RL1	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q6UWZ7	Q9NXR7	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q6UWZ7	P46736	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q6UWZ7	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+Q6UWZ7	P38398	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q6UWZ7	Q9BX63	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+Q6UWZ7	Q9NWV8	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q6UWZ7	Q99708	0.750000	MI:0007 (anti tag coimmunoprecipitation)|SPIKE
+Q04917	P31946	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q04917	P30291	0.473922	SPIKE
+Q04917	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+Q04917	P61981	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q04917	P27348	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q04917	P63104	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q04917	P30307	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q04917	P62258	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|MI:0401 (biochemical)
+O96028	Q16695	0.492293	MI:0096 (pull down)
+O96028	Q14676	0.750000	MI:0107 (surface plasmon resonance)|MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O96028	P62805	0.568782	MI:0415 (enzymatic study)
+Q8N2W9	Q99728	0.750000	MI:0018 (two hybrid)|SPIKE
+Q8N2W9	Q14676	0.568782	MI:0415 (enzymatic study)
+Q8N2W9	Q13315	0.473922	SPIKE
+Q8N2W9	P38398	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|SPIKE
+Q8N2W9	Q12888	0.666441	MI:0428 (imaging technique)
+Q8N2W9	O95714	0.311133	MI:0004 (affinity chromatography technology)
+Q8N2W9	P04637	0.750000	MI:0018 (two hybrid)|MI:0006 (anti bait coimmunoprecipitation)|KEGG activation|SPIKE
+Q99879	Q96RL1	0.473922	SPIKE
+Q99879	P16104	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+P54132	Q9H9A7	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)
+P54132	Q9UQ84	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P54132	Q13472	0.750000	KEGG group-entry|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0047 (far western blotting)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P54132	P49959	0.201461	MI:0401 (biochemical)
+P54132	P35244	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P54132	Q9BX63	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P54132	Q92547	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P54132	Q14191	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P54132	P38398	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P54132	Q12888	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)
+P54132	P27694	0.750000	MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|KEGG binding/association|MI:0096 (pull down)
+P54132	O60934	0.201461	MI:0401 (biochemical)
+P54132	O76064	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)
+P54132	P15927	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P54132	Q96RL1	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P54132	P04637	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)
+P54132	Q96E14	0.750000	KEGG group-entry|MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0071 (molecular sieving)|MI:0004 (affinity chromatography technology)
+P54132	Q92878	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+P06899	Q96RL1	0.473922	SPIKE
+P06899	P16104	0.452539	KEGG group-entry
+P06899	Q96A08	0.311133	MI:0004 (affinity chromatography technology)
+P30291	P31947	0.750000	SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P30291	P31946	0.750000	MI:0018 (two hybrid)|MI:0019 (coimmunoprecipitation)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|SPIKE
+P30291	P14635	0.473922	SPIKE
+P30291	Q16778	0.537715	MI:0424 (protein kinase assay)
+P30291	P06493	0.750000	SPIKE|MI:0415 (enzymatic study)|KEGG inhibition,phosphorylation|Phosphosite
+P30291	P63104	0.750000	MI:0047 (far western blotting)|MI:0096 (pull down)|SPIKE
+P30291	P61981	0.750000	MI:0006 (anti bait coimmunoprecipitation)|SPIKE
+P35244	Q13472	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P35244	P35249	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q14191	0.750000	MI:2222 (inference by socio-affinity scoring)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P35244	P15927	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|SPIKE|MI:0401 (biochemical)
+P35244	P49959	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P35244	P35250	0.311133	MI:0004 (affinity chromatography technology)
+P35244	P54132	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P35244	P27694	0.750000	MI:0019 (coimmunoprecipitation)|MI:0091 (chromatography technology)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0028 (cosedimentation in solution)|MI:0071 (molecular sieving)|SPIKE|MI:0401 (biochemical)|MI:0029 (cosedimentation through density gradient)
+P35244	P40938	0.311133	MI:0004 (affinity chromatography technology)
+P35244	P40937	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q13535	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q9H9A7	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P35244	O60934	0.311133	MI:0004 (affinity chromatography technology)
+P35244	P51530	0.311133	MI:0004 (affinity chromatography technology)
+P35244	O95714	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q8WXE1	0.311133	MI:0004 (affinity chromatography technology)
+P35244	Q96E14	0.430888	KEGG binding/association
+P35244	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+P35249	P40938	0.750000	MI:0004 (affinity chromatography technology)|MI:1112 (two hybrid prey pooling approach)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0401 (biochemical)
+P35249	P40937	0.750000	MI:1356 (validated two hybrid)|MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:1112 (two hybrid prey pooling approach)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0401 (biochemical)
+P35249	P49959	0.201461	MI:0401 (biochemical)
+P35249	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P35249	P63104	0.750000	MI:0096 (pull down)|SPIKE
+P35249	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P35249	P35250	0.750000	MI:0028 (cosedimentation in solution)|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)|MI:0096 (pull down)|SPIKE
+P35249	O75943	0.750000	MI:0019 (coimmunoprecipitation)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P35249	P38398	0.311133	MI:0004 (affinity chromatography technology)
+P35249	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P35249	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P35249	Q96RL1	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P35249	P04637	0.311133	MI:0004 (affinity chromatography technology)
+Q99880	Q96RL1	0.473922	SPIKE
+Q99880	P16104	0.452539	KEGG group-entry
+Q99880	Q96A08	0.311133	MI:0004 (affinity chromatography technology)
+O60671	Q9BSD3	0.311133	MI:0004 (affinity chromatography technology)
+O60671	P15927	0.311133	MI:0004 (affinity chromatography technology)
+O60671	O75943	0.750000	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+O60671	O60921	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association
+O60671	Q92547	0.473922	SPIKE
+O60671	Q99638	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|KEGG binding/association|MI:0096 (pull down)
+O60671	Q13535	0.750000	KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)
+O60671	Q6WBX8	0.750000	KEGG group-entry|KEGG binding/association|MI:0004 (affinity chromatography technology)
+O60671	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q13472	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P27694	P35244	0.750000	MI:0019 (coimmunoprecipitation)|MI:0091 (chromatography technology)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0028 (cosedimentation in solution)|MI:0071 (molecular sieving)|SPIKE|MI:0401 (biochemical)|MI:0029 (cosedimentation through density gradient)
+P27694	P35249	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q14191	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P27694	P15927	0.750000	MI:0091 (chromatography technology)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0401 (biochemical)
+P27694	Q99638	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P49959	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P14635	0.568782	MI:0415 (enzymatic study)
+P27694	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P35250	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P54132	0.750000	MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|KEGG binding/association|MI:0096 (pull down)
+P27694	O60921	0.311133	MI:0004 (affinity chromatography technology)
+P27694	O60671	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P04637	0.750000	MI:0411 (enzyme linked immunosorbent assay)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P27694	P40938	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P40937	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q9H9A7	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P27694	P38398	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P27694	P06493	0.568782	MI:0415 (enzymatic study)
+P27694	O60934	0.311133	MI:0004 (affinity chromatography technology)
+P27694	P51530	0.311133	MI:0004 (affinity chromatography technology)
+P27694	O95714	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q9BX63	0.750000	MI:0428 (imaging technique)|MI:0047 (far western blotting)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P27694	Q8WXE1	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P27694	Q12888	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q92547	0.666441	MI:0428 (imaging technique)
+P27694	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+P27694	Q96E14	0.430888	KEGG binding/association
+O14757	P31947	0.311133	MI:0004 (affinity chromatography technology)
+O14757	P31946	0.492293	MI:0096 (pull down)
+O14757	P30291	0.473922	SPIKE
+O14757	P61981	0.750000	MI:0019 (coimmunoprecipitation)|MI:0096 (pull down)
+O14757	Q92547	0.568782	MI:0415 (enzymatic study)
+O14757	P63104	0.492293	MI:0096 (pull down)
+O14757	Q14676	0.674374	Phosphosite
+O14757	Q8WXE1	0.437443	MI:0416 (fluorescence microscopy)
+O14757	Q12888	0.750000	MI:0428 (imaging technique)|Phosphosite
+O14757	P30307	0.750000	MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|KEGG inhibition,phosphorylation|SPIKE|MI:0096 (pull down)
+O14757	P54132	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|Phosphosite
+O14757	P38398	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|SPIKE
+O14757	P06493	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|Phosphosite
+O14757	Q92993	0.546877	MI:0663 (confocal microscopy)
+O14757	P15927	0.437443	MI:0416 (fluorescence microscopy)
+O14757	Q96RL1	0.674374	Phosphosite
+O14757	P04637	0.750000	MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|Phosphosite|KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE
+O75943	P35250	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O75943	O60934	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O75943	P40937	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+O75943	P49959	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+O75943	Q13315	0.750000	MI:0423 (in-gel kinase assay)|MI:0004 (affinity chromatography technology)
+O75943	P40938	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O75943	O60921	0.750000	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+O75943	P35249	0.750000	MI:0019 (coimmunoprecipitation)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+O75943	Q99638	0.750000	SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+O75943	P16104	0.311133	MI:0004 (affinity chromatography technology)
+O75943	Q6WBX8	0.311133	MI:0004 (affinity chromatography technology)
+O75943	O60671	0.750000	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+O75943	Q92878	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+Q6WBX8	O75943	0.311133	MI:0004 (affinity chromatography technology)
+Q6WBX8	O60921	0.750000	KEGG group-entry|KEGG binding/association|MI:0004 (affinity chromatography technology)
+Q6WBX8	Q13535	0.603327	KEGG activation,phosphorylation
+Q6WBX8	O60671	0.750000	KEGG group-entry|KEGG binding/association|MI:0004 (affinity chromatography technology)
+Q96RL1	Q6UWZ7	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q96RL1	P46736	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q96RL1	Q99708	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96RL1	Q99728	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96RL1	P54132	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96RL1	P38398	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q96RL1	Q12888	0.546877	MI:0663 (confocal microscopy)
+Q96RL1	P35249	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96RL1	Q9NXR7	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q96RL1	P04637	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q96RL1	Q9NWV8	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q96RL1	P16104	0.750000	MI:0663 (confocal microscopy)|SPIKE
+Q96RL1	Q14676	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0401 (biochemical)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q13535	P35244	0.311133	MI:0004 (affinity chromatography technology)
+Q13535	Q14191	0.750000	MI:0004 (affinity chromatography technology)|Phosphosite
+Q13535	O60934	0.750000	Phosphosite|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q13535	O75943	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	Q99708	0.674374	Phosphosite
+Q13535	P49959	0.473922	SPIKE
+Q13535	Q14676	0.750000	Phosphosite|SPIKE
+Q13535	P54132	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|Phosphosite
+Q13535	O60671	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	P27694	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	P04637	0.750000	MI:0415 (enzymatic study)|Phosphosite|KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)|SPIKE|MI:0096 (pull down)
+Q13535	O14757	0.750000	MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|Phosphosite|KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	O96017	0.750000	KEGG activation,phosphorylation|MI:0415 (enzymatic study)|Phosphosite
+Q13535	Q13315	0.750000	SPIKE|MI:0415 (enzymatic study)|Phosphosite
+Q13535	P38398	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|KEGG phosphorylation|SPIKE|MI:0096 (pull down)
+Q13535	P15927	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	O95714	0.473922	SPIKE
+Q13535	P16104	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|SPIKE
+Q13535	Q92547	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q13535	Q8WXE1	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|Phosphosite|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|MI:0071 (molecular sieving)|MI:0226 (ion exchange chromatography)|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+Q13535	Q9UQ84	0.473922	SPIKE
+Q13535	Q12888	0.473922	SPIKE
+Q13535	Q96RL1	0.750000	Phosphosite|SPIKE
+Q13535	Q92878	0.473922	SPIKE
+P16104	Q93079	0.452539	KEGG group-entry
+P16104	Q8N257	0.452539	KEGG group-entry
+P16104	Q16778	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+P16104	Q99877	0.452539	KEGG group-entry
+P16104	P06899	0.452539	KEGG group-entry
+P16104	Q96A08	0.452539	KEGG group-entry
+P16104	Q99708	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P16104	P49959	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0416 (fluorescence microscopy)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P16104	Q92878	0.750000	MI:0428 (imaging technique)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P16104	P27348	0.311133	MI:0004 (affinity chromatography technology)
+P16104	Q99728	0.750000	MI:0096 (pull down)|SPIKE
+P16104	Q99879	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+P16104	O60814	0.452539	KEGG group-entry
+P16104	P62807	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+P16104	P62805	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P16104	P31946	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P16104	P63104	0.750000	MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|SPIKE
+P16104	Q99880	0.452539	KEGG group-entry
+P16104	Q8IYW5	0.750000	MI:0415 (enzymatic study)|MI:0663 (confocal microscopy)|SPIKE
+P16104	P33778	0.452539	KEGG group-entry
+P16104	P54132	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|SPIKE
+P16104	Q13315	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|SPIKE
+P16104	O75943	0.311133	MI:0004 (affinity chromatography technology)
+P16104	P38398	0.750000	MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0029 (cosedimentation through density gradient)
+P16104	Q9UQ84	0.437443	MI:0416 (fluorescence microscopy)
+P16104	Q12888	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|SPIKE
+P16104	P23527	0.452539	KEGG group-entry
+P16104	Q96RL1	0.750000	MI:0663 (confocal microscopy)|SPIKE
+P16104	O60934	0.750000	SPIKE|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P16104	O76064	0.750000	MI:0415 (enzymatic study)|MI:0663 (confocal microscopy)|MI:0416 (fluorescence microscopy)|SPIKE
+P16104	P58876	0.452539	KEGG group-entry
+P16104	Q16695	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P16104	Q14676	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0053 (fluorescence polarization spectroscopy)|MI:0065 (isothermal titration calorimetry)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|MI:0114 (x-ray crystallography)|MI:0605 (enzymatic footprinting)|MI:0096 (pull down)
+P16104	Q14191	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P16104	P62258	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P16104	P04637	0.311133	MI:0004 (affinity chromatography technology)
+Q13472	O60934	0.473922	SPIKE
+Q13472	P15927	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+Q13472	P54132	0.750000	KEGG group-entry|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0047 (far western blotting)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q13472	P35244	0.750000	KEGG binding/association|SPIKE|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q13472	Q9H9A7	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|MI:0114 (x-ray crystallography)|MI:0047 (far western blotting)|MI:0071 (molecular sieving)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0020 (transmission electron microscopy)|MI:0096 (pull down)
+Q13472	P04637	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+Q13472	Q96E14	0.750000	KEGG group-entry|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q13472	P27694	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+Q8N257	Q96RL1	0.473922	SPIKE
+Q8N257	P16104	0.452539	KEGG group-entry
+Q99638	Q9BSD3	0.311133	MI:0004 (affinity chromatography technology)
+Q99638	P15927	0.311133	MI:0004 (affinity chromatography technology)
+Q99638	O75943	0.750000	SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q99638	O96017	0.473922	SPIKE
+Q99638	O60921	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:1112 (two hybrid prey pooling approach)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0397 (two hybrid array)|MI:0096 (pull down)
+Q99638	Q92547	0.750000	MI:0018 (two hybrid)|MI:0019 (coimmunoprecipitation)|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99638	Q13535	0.750000	KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)
+Q99638	O60671	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|KEGG binding/association|MI:0096 (pull down)
+Q99638	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q93079	Q96RL1	0.473922	SPIKE
+Q93079	P16104	0.452539	KEGG group-entry
+Q8IYW5	P61088	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q8IYW5	O95714	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q8IYW5	Q16778	0.311133	MI:0004 (affinity chromatography technology)
+Q8IYW5	Q12888	0.750000	MI:0428 (imaging technique)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)
+Q8IYW5	P16104	0.750000	MI:0415 (enzymatic study)|MI:0663 (confocal microscopy)|SPIKE
+P49959	Q99728	0.311133	MI:0004 (affinity chromatography technology)
+P49959	P16104	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0416 (fluorescence microscopy)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P49959	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P49959	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P49959	P35249	0.201461	MI:0401 (biochemical)
+P49959	Q14676	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P49959	Q13315	0.750000	KEGG activation,phosphorylation|MI:0423 (in-gel kinase assay)|SPIKE|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P49959	P54132	0.201461	MI:0401 (biochemical)
+P49959	O75943	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+P49959	P38398	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+P49959	Q92993	0.311133	MI:0004 (affinity chromatography technology)
+P49959	O60934	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|KEGG group-entry|MI:0428 (imaging technique)|SPIKE|KEGG binding/association|MI:0096 (pull down)|MI:0401 (biochemical)
+P49959	O76064	0.311133	MI:0004 (affinity chromatography technology)
+P49959	Q16695	0.311133	MI:0004 (affinity chromatography technology)
+P49959	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P49959	Q99708	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+P49959	Q92878	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association|MI:2222 (inference by socio-affinity scoring)|MI:0401 (biochemical)
+P58876	P63104	0.389958	MI:0676 (tandem affinity purification)
+P58876	P27348	0.311133	MI:0004 (affinity chromatography technology)
+P58876	P16104	0.452539	KEGG group-entry
+P58876	Q96RL1	0.473922	SPIKE
+P04637	Q9NXR7	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+P04637	P62258	0.750000	MI:0053 (fluorescence polarization spectroscopy)|MI:0004 (affinity chromatography technology)
+P04637	Q14191	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0047 (far western blotting)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0096 (pull down)
+P04637	P61088	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P04637	Q96RL1	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P04637	Q13535	0.750000	MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P04637	P14635	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P04637	P63104	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+P04637	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+P04637	P54132	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)
+P04637	P27694	0.750000	MI:0411 (enzyme linked immunosorbent assay)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P04637	Q99728	0.750000	MI:0428 (imaging technique)|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P04637	P40938	0.311133	MI:0004 (affinity chromatography technology)
+P04637	P31947	0.750000	MI:0114 (x-ray crystallography)|MI:0004 (affinity chromatography technology)|MI:0065 (isothermal titration calorimetry)|MI:0096 (pull down)|SPIKE
+P04637	Q13472	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P04637	O96017	0.750000	SPIKE|MI:0424 (protein kinase assay)|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)
+P04637	P27348	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+P04637	P35249	0.311133	MI:0004 (affinity chromatography technology)
+P04637	Q13315	0.750000	MI:0423 (in-gel kinase assay)|MI:0415 (enzymatic study)|MI:0096 (pull down)|SPIKE
+P04637	P38398	0.750000	MI:0019 (coimmunoprecipitation)|SPIKE|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+P04637	P15927	0.745706	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P04637	O95714	0.750000	MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P04637	P16104	0.311133	MI:0004 (affinity chromatography technology)
+P04637	P61981	0.750000	MI:0019 (coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0053 (fluorescence polarization spectroscopy)|SPIKE
+P04637	P46736	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+P04637	P30307	0.473922	SPIKE
+P04637	Q12888	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0114 (x-ray crystallography)|SPIKE|MI:0096 (pull down)
+Q12888	P14635	0.568782	MI:0415 (enzymatic study)
+Q12888	P16104	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|SPIKE
+Q12888	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q12888	O96017	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q12888	Q92547	0.750000	MI:0416 (fluorescence microscopy)|SPIKE
+Q12888	P62805	0.750000	MI:0114 (x-ray crystallography)|MI:0077 (nuclear magnetic resonance)|MI:0065 (isothermal titration calorimetry)|MI:0107 (surface plasmon resonance)|MI:0047 (far western blotting)|SPIKE|MI:0081 (peptide array)|MI:0096 (pull down)
+Q12888	P63104	0.311133	MI:0004 (affinity chromatography technology)
+Q12888	Q8IYW5	0.750000	MI:0428 (imaging technique)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)
+Q12888	Q14676	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q12888	P35250	0.311133	MI:0004 (affinity chromatography technology)
+Q12888	P54132	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)
+Q12888	P38398	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)
+Q12888	Q8N2W9	0.666441	MI:0428 (imaging technique)
+Q12888	O76064	0.750000	MI:0428 (imaging technique)|MI:0416 (fluorescence microscopy)
+Q12888	P15927	0.311133	MI:0004 (affinity chromatography technology)
+Q12888	Q96RL1	0.546877	MI:0663 (confocal microscopy)
+Q12888	P04637	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0114 (x-ray crystallography)|SPIKE|MI:0096 (pull down)
+P61981	P30291	0.750000	MI:0006 (anti bait coimmunoprecipitation)|SPIKE
+P61981	Q9UQ84	0.750000	MI:0018 (two hybrid)|MI:0096 (pull down)
+P61981	P14635	0.473922	SPIKE
+P61981	P63104	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P61981	P31947	0.750000	MI:0004 (affinity chromatography technology)|MI:0676 (tandem affinity purification)|SPIKE
+P61981	P31946	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0069 (mass spectrometry studies of complexes)|MI:0004 (affinity chromatography technology)
+P61981	O14757	0.750000	MI:0019 (coimmunoprecipitation)|MI:0096 (pull down)
+P61981	P27348	0.750000	MI:0401 (biochemical)|MI:0069 (mass spectrometry studies of complexes)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P61981	Q04917	0.750000	MI:0401 (biochemical)|MI:0007 (anti tag coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+P61981	P30307	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P61981	Q92993	0.280419	MI:0018 (two hybrid)
+P61981	P62258	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0069 (mass spectrometry studies of complexes)|MI:0018 (two hybrid)|SPIKE|MI:0397 (two hybrid array)|MI:0401 (biochemical)
+Q14676	P40937	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	O96028	0.750000	MI:0107 (surface plasmon resonance)|MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	Q99728	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q14676	Q9NXR7	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P16104	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0053 (fluorescence polarization spectroscopy)|MI:0065 (isothermal titration calorimetry)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|MI:0114 (x-ray crystallography)|MI:0605 (enzymatic footprinting)|MI:0096 (pull down)
+Q14676	O96017	0.750000	SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	P49959	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	P35244	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	Q92547	0.750000	MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q14676	P35249	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P46736	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P63104	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P35250	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	Q6UWZ7	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P54132	0.473922	SPIKE
+Q14676	P38398	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|SPIKE
+Q14676	Q12888	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	Q9NWV8	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	Q8N2W9	0.568782	MI:0415 (enzymatic study)
+Q14676	O60934	0.750000	MI:0676 (tandem affinity purification)|MI:0065 (isothermal titration calorimetry)|MI:0663 (confocal microscopy)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q14676	O76064	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0416 (fluorescence microscopy)|MI:0663 (confocal microscopy)|MI:0065 (isothermal titration calorimetry)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q14676	P15927	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	Q96RL1	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0401 (biochemical)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	O95714	0.311133	MI:0004 (affinity chromatography technology)
+Q14676	Q92878	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q14676	P04637	0.311133	MI:0004 (affinity chromatography technology)
+O60921	Q9BSD3	0.311133	MI:0004 (affinity chromatography technology)
+O60921	P15927	0.311133	MI:0004 (affinity chromatography technology)
+O60921	O75943	0.750000	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+O60921	P27348	0.492293	MI:0096 (pull down)
+O60921	Q92547	0.473922	SPIKE
+O60921	Q99638	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|MI:1112 (two hybrid prey pooling approach)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0397 (two hybrid array)|MI:0096 (pull down)
+O60921	Q13535	0.750000	KEGG activation,phosphorylation|MI:0004 (affinity chromatography technology)
+O60921	P63104	0.750000	MI:0096 (pull down)|SPIKE
+O60921	Q6WBX8	0.750000	KEGG group-entry|KEGG binding/association|MI:0004 (affinity chromatography technology)
+O60921	O60671	0.750000	MI:0018 (two hybrid)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association
+O60921	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q13315	P62805	0.473922	SPIKE
+Q13315	Q14191	0.750000	Phosphosite|SPIKE
+Q13315	O75943	0.750000	Phosphosite|MI:0004 (affinity chromatography technology)|SPIKE
+Q13315	O76064	0.437443	MI:0416 (fluorescence microscopy)
+Q13315	Q96RL1	0.750000	Phosphosite|SPIKE
+Q13315	O95714	0.473922	SPIKE
+Q13315	Q99638	0.750000	SPIKE|Phosphosite
+Q13315	P49959	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|Phosphosite|MI:0401 (biochemical)
+Q13315	Q14676	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|SPIKE
+Q13315	Q99708	0.750000	Phosphosite|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q13315	P54132	0.750000	SPIKE|MI:0004 (affinity chromatography technology)|Phosphosite|MI:0096 (pull down)|MI:0401 (biochemical)
+Q13315	P27694	0.750000	MI:0415 (enzymatic study)|SPIKE
+Q13315	Q6UWZ7	0.750000	Phosphosite|SPIKE
+Q13315	P04637	0.750000	KEGG activation,phosphorylation|SPIKE|MI:0415 (enzymatic study)|MI:0096 (pull down)|Phosphosite
+Q13315	P40938	0.473922	SPIKE
+Q13315	P31947	0.473922	SPIKE
+Q13315	O14757	0.750000	KEGG activation,phosphorylation|MI:0423 (in-gel kinase assay)|MI:0415 (enzymatic study)|Phosphosite|SPIKE
+Q13315	O96017	0.750000	KEGG activation,phosphorylation|MI:0415 (enzymatic study)|Phosphosite|MI:0096 (pull down)|SPIKE
+Q13315	P27348	0.473922	SPIKE
+Q13315	Q99728	0.473922	SPIKE
+Q13315	Q9BSD3	0.473922	SPIKE
+Q13315	Q13472	0.473922	SPIKE
+Q13315	P38398	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|KEGG phosphorylation|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+Q13315	O60934	0.750000	Phosphosite|MI:0004 (affinity chromatography technology)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q13315	P15927	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|MI:0019 (coimmunoprecipitation)|SPIKE|MI:0423 (in-gel kinase assay)
+Q13315	O96028	0.750000	Phosphosite|SPIKE
+Q13315	P16104	0.750000	MI:0428 (imaging technique)|MI:0006 (anti bait coimmunoprecipitation)|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|SPIKE
+Q13315	Q92547	0.750000	Phosphosite|MI:0004 (affinity chromatography technology)|SPIKE
+Q13315	Q8WXE1	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q13315	Q9UQ84	0.750000	MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q13315	Q12888	0.750000	SPIKE|MI:0415 (enzymatic study)|MI:0841 (phosphotransferase assay)|MI:0096 (pull down)|Phosphosite
+Q13315	Q8N2W9	0.473922	SPIKE
+Q13315	Q92878	0.750000	SPIKE|Phosphosite|MI:0401 (biochemical)
+P06493	P30291	0.750000	SPIKE|MI:0415 (enzymatic study)|Phosphosite
+P06493	P62805	0.568782	MI:0415 (enzymatic study)
+P06493	Q96RL1	0.750000	MI:0004 (affinity chromatography technology)|MI:0415 (enzymatic study)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|Phosphosite
+P06493	Q99638	0.674374	Phosphosite
+P06493	Q99708	0.473922	SPIKE
+P06493	P14635	0.750000	MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|Phosphosite|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association|MI:0096 (pull down)|MI:0401 (biochemical)
+P06493	P33778	0.568782	MI:0415 (enzymatic study)
+P06493	P54132	0.674374	Phosphosite
+P06493	P27694	0.568782	MI:0415 (enzymatic study)
+P06493	P04637	0.750000	SPIKE|MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P06493	Q13535	0.674374	Phosphosite
+P06493	O14757	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|Phosphosite
+P06493	P38398	0.750000	SPIKE|MI:0096 (pull down)|Phosphosite
+P06493	P15927	0.750000	Phosphosite|SPIKE
+P06493	Q99728	0.750000	SPIKE|MI:0415 (enzymatic study)|Phosphosite
+P06493	P30307	0.750000	KEGG activation,phosphorylation|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|Phosphosite
+P06493	Q12888	0.750000	MI:0415 (enzymatic study)|Phosphosite|SPIKE
+P06493	Q92993	0.750000	SPIKE|MI:0415 (enzymatic study)|Phosphosite
+Q9BX63	Q6UWZ7	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+Q9BX63	P27694	0.750000	MI:0428 (imaging technique)|MI:0047 (far western blotting)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q9BX63	Q99728	0.750000	SPIKE|MI:0004 (affinity chromatography technology)
+Q9BX63	P54132	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q9BX63	P38398	0.750000	MI:0019 (coimmunoprecipitation)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0114 (x-ray crystallography)|MI:0007 (anti tag coimmunoprecipitation)|MI:0428 (imaging technique)|MI:0107 (surface plasmon resonance)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q9BX63	Q92547	0.750000	KEGG binding/association|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q16695	O96028	0.492293	MI:0096 (pull down)
+Q16695	P16104	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+Q16695	Q92993	0.492293	MI:0096 (pull down)
+Q16695	P49959	0.311133	MI:0004 (affinity chromatography technology)
+Q16695	P62805	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)|MI:0038 (dynamic light scattering)|MI:0071 (molecular sieving)|MI:0401 (biochemical)
+Q16695	Q13315	0.473922	SPIKE
+Q16695	Q12888	0.473922	SPIKE
+Q16695	O60934	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q16695	Q92878	0.311133	MI:0004 (affinity chromatography technology)
+Q14191	O60934	0.311133	MI:0004 (affinity chromatography technology)
+Q14191	P15927	0.750000	MI:0416 (fluorescence microscopy)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q14191	Q13315	0.750000	MI:0423 (in-gel kinase assay)
+Q14191	P54132	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q14191	P35244	0.750000	MI:2222 (inference by socio-affinity scoring)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)
+Q14191	P04637	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0047 (far western blotting)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0096 (pull down)
+Q14191	P16104	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q14191	P27694	0.750000	MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0411 (enzyme linked immunosorbent assay)|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q16778	P16104	0.750000	KEGG group-entry|MI:0004 (affinity chromatography technology)
+Q16778	P30291	0.537715	MI:0424 (protein kinase assay)
+Q16778	P62805	0.492293	MI:0096 (pull down)
+Q16778	Q8IYW5	0.311133	MI:0004 (affinity chromatography technology)
+Q16778	O76064	0.568782	MI:0415 (enzymatic study)
+Q16778	Q96RL1	0.750000	MI:0004 (affinity chromatography technology)|SPIKE
+Q99728	Q9NXR7	0.710749	MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99728	Q92993	0.750000	MI:0018 (two hybrid)|SPIKE
+Q99728	Q99708	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q99728	P49959	0.311133	MI:0004 (affinity chromatography technology)
+Q99728	Q9BX63	0.750000	SPIKE|MI:0004 (affinity chromatography technology)
+Q99728	Q92547	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q99728	P62807	0.058035	MI:1313 (bioid)
+Q99728	P63104	0.311133	MI:0004 (affinity chromatography technology)
+Q99728	P35250	0.311133	MI:0004 (affinity chromatography technology)
+Q99728	P46736	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE
+Q99728	P61088	0.492293	MI:0096 (pull down)
+Q99728	P38398	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|MI:0090 (protein complementation assay)|MI:0004 (affinity chromatography technology)|MI:0077 (nuclear magnetic resonance)|MI:0007 (anti tag coimmunoprecipitation)|MI:0055 (fluorescent resonance energy transfer)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q99728	Q8N2W9	0.750000	MI:0018 (two hybrid)|SPIKE
+Q99728	Q6UWZ7	0.750000	SPIKE|MI:0004 (affinity chromatography technology)
+Q99728	O60934	0.536469	MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+Q99728	O76064	0.311133	MI:0004 (affinity chromatography technology)
+Q99728	P04637	0.750000	MI:0428 (imaging technique)|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99728	Q96RL1	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99728	Q92878	0.536469	MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+P61088	Q99728	0.492293	MI:0096 (pull down)
+P61088	Q15819	0.750000	MI:0997 (ubiquitinase assay)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|SPIKE|MI:2222 (inference by socio-affinity scoring)|MI:0096 (pull down)|MI:0401 (biochemical)
+P61088	P16104	0.473922	SPIKE
+P61088	Q8IYW5	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+P61088	Q9BSD3	0.311133	MI:0004 (affinity chromatography technology)
+P61088	P38398	0.750000	MI:0018 (two hybrid)|MI:0114 (x-ray crystallography)|MI:0096 (pull down)
+P61088	Q92993	0.473922	SPIKE
+P61088	O60934	0.492293	MI:0096 (pull down)
+P61088	O76064	0.750000	MI:0018 (two hybrid)|SPIKE|MI:0397 (two hybrid array)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P61088	O95714	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P61088	P04637	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q8WXE1	O60934	0.311133	MI:0004 (affinity chromatography technology)
+Q8WXE1	P35244	0.311133	MI:0004 (affinity chromatography technology)
+Q8WXE1	P15927	0.311133	MI:0004 (affinity chromatography technology)
+Q8WXE1	O14757	0.437443	MI:0416 (fluorescence microscopy)
+Q8WXE1	Q13315	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q8WXE1	O95714	0.311133	MI:0004 (affinity chromatography technology)
+Q8WXE1	O75943	0.473922	SPIKE
+Q8WXE1	P38398	0.750000	MI:0114 (x-ray crystallography)|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q8WXE1	Q92547	0.750000	SPIKE|MI:0416 (fluorescence microscopy)|MI:0004 (affinity chromatography technology)
+Q8WXE1	P27694	0.750000	MI:0428 (imaging technique)|SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+P30307	P14635	0.750000	MI:0096 (pull down)|SPIKE
+P30307	O95714	0.311133	MI:0004 (affinity chromatography technology)
+P30307	P38398	0.568782	MI:0415 (enzymatic study)
+P30307	P06493	0.750000	MI:0007 (anti tag coimmunoprecipitation)|KEGG activation,dephosphorylation|MI:0096 (pull down)|SPIKE
+P30307	P04637	0.473922	SPIKE
+P30307	P63104	0.750000	KEGG binding/association|KEGG dissociation|MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q92878	Q99728	0.536469	MI:0004 (affinity chromatography technology)|MI:0401 (biochemical)
+Q92878	P16104	0.750000	MI:0428 (imaging technique)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q92878	O96017	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q92878	Q99708	0.750000	KEGG binding/association|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q92878	P27694	0.311133	MI:0004 (affinity chromatography technology)
+Q92878	P35244	0.311133	MI:0004 (affinity chromatography technology)
+Q92878	Q14676	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q92878	P49959	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|MI:0007 (anti tag coimmunoprecipitation)|KEGG group-entry|SPIKE|KEGG binding/association|MI:2222 (inference by socio-affinity scoring)|MI:0401 (biochemical)
+Q92878	Q13315	0.750000	KEGG activation,phosphorylation|SPIKE|MI:0401 (biochemical)
+Q92878	P54132	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q92878	O75943	0.413885	MI:0006 (anti bait coimmunoprecipitation)
+Q92878	P38398	0.750000	MI:0428 (imaging technique)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|MI:0096 (pull down)|MI:0401 (biochemical)
+Q92878	Q92993	0.311133	MI:0004 (affinity chromatography technology)
+Q92878	O60934	0.750000	MI:0004 (affinity chromatography technology)|MI:0416 (fluorescence microscopy)|KEGG group-entry|SPIKE|KEGG binding/association|MI:0401 (biochemical)
+Q92878	O76064	0.311133	MI:0004 (affinity chromatography technology)
+Q92878	Q16695	0.311133	MI:0004 (affinity chromatography technology)
+Q92878	P15927	0.311133	MI:0004 (affinity chromatography technology)
+Q99708	O60934	0.750000	SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99708	Q9UQ84	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99708	Q6UWZ7	0.750000	MI:0007 (anti tag coimmunoprecipitation)|SPIKE
+Q99708	Q13315	0.750000	MI:0423 (in-gel kinase assay)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q99708	Q96RL1	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q99708	Q99728	0.536469	MI:0401 (biochemical)|MI:0004 (affinity chromatography technology)
+Q99708	P49959	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q99708	P51530	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q99708	P38398	0.750000	MI:0428 (imaging technique)|MI:0415 (enzymatic study)|MI:0676 (tandem affinity purification)|MI:0004 (affinity chromatography technology)|MI:0018 (two hybrid)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+Q99708	Q13535	0.473922	SPIKE
+Q99708	P16104	0.348804	MI:0007 (anti tag coimmunoprecipitation)
+Q99708	Q92878	0.750000	KEGG binding/association|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q9NWV8	Q6UWZ7	0.750000	KEGG binding/association|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q9NWV8	Q96RL1	0.750000	MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|SPIKE
+Q9NWV8	P38398	0.750000	MI:0004 (affinity chromatography technology)|MI:0096 (pull down)|SPIKE
+Q9NWV8	Q9NXR7	0.750000	MI:0398 (two hybrid pooling approach)|MI:0004 (affinity chromatography technology)|MI:0007 (anti tag coimmunoprecipitation)|MI:0018 (two hybrid)|SPIKE|KEGG binding/association|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)|MI:0401 (biochemical)
+Q9NWV8	P46736	0.750000	KEGG binding/association|SPIKE|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q9NWV8	Q14676	0.311133	MI:0004 (affinity chromatography technology)
+O96017	Q99638	0.473922	SPIKE
+O96017	Q14676	0.750000	SPIKE|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O96017	P30307	0.750000	SPIKE|MI:0415 (enzymatic study)|KEGG inhibition,phosphorylation|Phosphosite
+O96017	Q13315	0.750000	MI:0423 (in-gel kinase assay)|MI:0415 (enzymatic study)|MI:0096 (pull down)
+O96017	P54132	0.674374	Phosphosite
+O96017	P38398	0.750000	MI:0415 (enzymatic study)|Phosphosite|MI:0004 (affinity chromatography technology)|MI:0428 (imaging technique)|SPIKE|MI:0006 (anti bait coimmunoprecipitation)|MI:0096 (pull down)
+O96017	O60934	0.750000	MI:0428 (imaging technique)|SPIKE
+O96017	O76064	0.750000	MI:0415 (enzymatic study)|MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+O96017	Q12888	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+O96017	P04637	0.750000	KEGG activation,phosphorylation|SPIKE|MI:0415 (enzymatic study)|MI:0004 (affinity chromatography technology)|Phosphosite
+O96017	Q92878	0.750000	MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+P51530	P35244	0.311133	MI:0004 (affinity chromatography technology)
+P51530	P27694	0.311133	MI:0004 (affinity chromatography technology)
+P51530	P15927	0.311133	MI:0004 (affinity chromatography technology)
+P51530	Q99708	0.750000	MI:0096 (pull down)|MI:0004 (affinity chromatography technology)
+Q15819	O76064	0.492293	MI:0096 (pull down)
+Q96E14	P35244	0.430888	KEGG binding/association
+Q96E14	Q9H9A7	0.750000	KEGG group-entry|MI:0006 (anti bait coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96E14	P54132	0.750000	KEGG group-entry|MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0071 (molecular sieving)|MI:0004 (affinity chromatography technology)
+Q96E14	P27694	0.430888	KEGG binding/association
+Q96E14	Q13472	0.750000	KEGG group-entry|MI:0007 (anti tag coimmunoprecipitation)|MI:0004 (affinity chromatography technology)
+Q96E14	P15927	0.430888	KEGG binding/association
