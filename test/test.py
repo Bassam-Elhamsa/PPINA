@@ -3,6 +3,14 @@ import matplotlib.pyplot as plt
 
 # Building graph
 G = graph_construction.G_build("G2-M_DNA_damage_checkpoint_ppi.txt")
+#Find the shortest path between two peoteins
+paths = gc.all_shortest_paths(draw_graph,"P62807" ,"Q12888")
+
+#Caclculate the weight and the total path score for the shortest paths
+weight = gc.weight_of_each_path(draw_graph,"P62807" ,"Q12888")
+
+#Draw the subgraph
+sub_graph = gc.subgraph_plot(draw_graph, path = paths[0]0
 # Extract all proteins in the graph
 all_proteins = list(G.nodes())
 # plot histogram pathway's protein degrees and save it as png
