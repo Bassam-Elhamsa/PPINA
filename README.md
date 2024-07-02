@@ -12,13 +12,13 @@ Protein Protein Interaction Network Analyzer
 ## Installation 
 to install *PPINA*, you need to have Python 3.6 or later. You can install the package from PyPI:
 
-\```bash
+```bash
 pip install PPINA
-\```
+```
 
 Ensure you have the following dependencies:
 
-\```bash
+```bash
 pip install networkx matplotlib colorama requests
-\```
+```
 
